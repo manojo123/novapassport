@@ -13,6 +13,6 @@ Nova.booting((Vue, router, store) => {
             name: 'novapassport',
             path: '/novapassport',
             component: require('./components/Tool'),
-        },
+        }
     ])
 })
