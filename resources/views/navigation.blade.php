@@ -1,0 +1,8 @@
+<router-link tag="h3" :to="{name: 'novapassport'}" class="cursor-pointer flex items-center font-normal dim text-white mb-6 text-base no-underline">
+    <svg class="sidebar-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+        <path fill="#B3C1D1" d="M12.26 11.74L10 14H8v2H6v2l-2 2H0v-4l8.26-8.26a6 6 0 1 1 4 4zm4.86-4.62A3 3 0 0 0 15 2a3 3 0 0 0-2.12.88l4.24 4.24z"/>
+    </svg>
+    <span class="sidebar-label">
+        Oauth Passport
+    </span>
+</router-link>
